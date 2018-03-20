@@ -1,0 +1,38 @@
+{
+    "name": "kevvor-react-native-ui-kit",
+    "version": "0.1.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kevvor/react-native-ui-kit.git"
+    },
+    "keywords": [
+        "react",
+        "react-native",
+        "ui"
+    ],
+    "author": "kevvor",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kevvor/react-native-ui-kit/issues"
+    },
+    "homepage": "https://github.com/kevvor/react-native-ui-kit#readme",
+    "dependencies": {
+
+    },
+    "devDependencies": {
+        "babel": "^6.23.0",
+        "babel-core": "^6.23.1",
+        "babel-loader": "^6.3.2",
+        "babel-preset-react-native": "^1.9.1",
+        "react": "16.2.0",
+        "react-dom": "16.2.0",
+        "react-native": "0.52.2",
+        "react-test-renderer": "16.2.0",
+        "webpack": "^2.2.1"
+    }
+}
