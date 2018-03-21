@@ -1,8 +1,8 @@
 ## React Native UI Kit
 
-I often find myself rewriting or copy/pasting certain custom React Native components.
+I often find myself rewriting and copy/pasting my custom React Native components across projects.
 
-This repo attempts to address that by providing myself with a central place to store all my reusable components.
+This repo addresses that by providing a central place to store all my reusable components.
 
 #### Getting Started
 ```npm install kevvor-react-native-ui-kit```
@@ -16,7 +16,7 @@ import { View, Text } from 'react-native';
 
 import { Button } from 'kevvor-react-native-ui-kit';
 
-class App extends Component {
+class ExampleApp extends Component {
     render() {
         return (
             <View>
@@ -26,7 +26,9 @@ class App extends Component {
                     height='int'
                     width='int'
                     fontSize='int' // Font size of button text
-                >"Button Title"</Button>
+                >
+                    "Button Title"
+                </Button>
             </View>
         );
     }
