@@ -4,10 +4,10 @@ I often find myself rewriting and copy/pasting my custom React Native components
 
 This repo addresses that by providing a central place to store all my reusable components.
 
-#### Getting Started
-```npm install kevvor-react-native-ui-kit```
+### Getting Started
+```npm install kevvor-react-native-ui-kit --save```
 
-#### Usage:
+### Usage:
 
 Button:
 ```js
